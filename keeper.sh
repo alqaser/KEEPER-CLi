@@ -107,14 +107,12 @@ CH SOURCE : @KEEPER_CH ]
     ;;
     *)
       prtred '
-   [ sudo  @llx8xll  karrar alqaser ]
  '
       install
     ;;
   esac
 }
 
-  [ sudo  @llx8xll  karrar alqaser ] 
 cd "$THIS_DIR" || exit
 case $1 in
   update)
